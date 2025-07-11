@@ -1,0 +1,4 @@
+gym
+tensorflow
+keras-rl2
+matplotlib
